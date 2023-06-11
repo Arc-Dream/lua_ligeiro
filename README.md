@@ -4,6 +4,7 @@
 
 <h5>SUPER-LIGHT WEBSERVER PROJECT</h5>
 
+
 FEATURES;
   
  Receiving GET/POST Requests,
@@ -13,5 +14,10 @@ FEATURES;
  Running Local Router,
  
  Responding with html/json/image files
+ 
+ 
+EXPECTED;
+ 
+ Pass values from server to HTML viewer
               
               
