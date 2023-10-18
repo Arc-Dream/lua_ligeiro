@@ -14,10 +14,7 @@ FEATURES;
  Running Local Router,
  
  Responding with html/json/image files
- 
- 
-EXPECTED;
- 
+  
  Pass values from server to HTML viewer
               
               
