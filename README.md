@@ -13,8 +13,18 @@ FEATURES;
               
  Running Local Router,
  
- Responding with html/json/image files
+ Responding with html/json/image files,
   
- Pass values from server to HTML viewer
+ Pass values from server to HTML viewer,
               
               
+HOW TO RUN;
+
+ Install Lua interpreter on your system,
+
+ Download files/folders from this repository to your machine/server,
+
+ Use command "lua socket_service.lua" and start your server,
+
+
+ Update the source code / static files / images through your own needs.
